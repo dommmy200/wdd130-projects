@@ -1,2 +1,2 @@
 # dommmy200.github.io
-software dev and web design
+software development and web design at BYU-I.
